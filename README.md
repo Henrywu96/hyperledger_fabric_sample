@@ -1,1 +1,1 @@
-# hyperledger_fabric_sample
+# hyperledger fabric sample
